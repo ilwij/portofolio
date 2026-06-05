@@ -6,9 +6,9 @@ const CONTACTS = [
     kind: "email",
     slot: "@",
     label: "Email",
-    value: "ilhamwijaya279@gmail.com",
-    href: "mailto:ilhamwijaya279@gmail.com",
-    copy: "ilhamwijaya279@gmail.com",
+    value: "ilham.wijaya@ilwij.com",
+    href: "mailto:ilham.wijaya@ilwij.com",
+    copy: "ilham.wijaya@ilwij.com",
   },
   {
     kind: "link",
