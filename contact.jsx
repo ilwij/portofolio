@@ -119,7 +119,7 @@ function ContactSection() {
                 and I'll get back to you.
               </p>
               <span className="ct-avail">
-                <i></i>Open to opportunities · Bekasi, Indonesia
+                <i></i>Open to opportunities
               </span>
             </div>
 
